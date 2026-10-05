@@ -13,7 +13,7 @@
 | Windows 独立版 | 双击 `启动 Resolution Studio.bat` | Java 8 或更新版本 |
 | ImageJ / Fiji 插件 | 将 `插件版/Resolution_Studio.jar` 复制到 ImageJ / Fiji 的 `plugins` 文件夹，重启后选择 **Plugins → Resolution Studio** | 已安装 ImageJ 或 Fiji |
 
-独立版已包含 ImageJ 1.54u 内核与界面库，不需要另装 ImageJ；**下载包不包含 Java 运行时**。Windows 启动器会查找已安装或 ImageJ / Fiji 自带的 Java，找不到时会给出中文提示。
+独立版已包含 ImageJ 1.54u 内核与界面库，不需要另装 ImageJ；**下载不包含 Java 运行**。Windows 启动器会查找已安装或 ImageJ / Fiji 自带的 Java，找不到时会给出中文提示。
 
 下载包没有预设机器专属的 `java-path.cfg`，首次启动后由启动器生成。完整包内还附有三张模拟示例图像、使用说明、源码包与第三方许可文件。
 
